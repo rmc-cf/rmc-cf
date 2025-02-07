@@ -11,7 +11,8 @@
 
 |   主&emsp;页   | <https://blog-cf.kooboo.net/>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://blog-cf.kooboo.net/>**                            |
+| **博&emsp;客** | **<https://blog-cf.kooboo.net/>**  
+| **静态响应式咖啡网站** | **<https://rmc-cf.github.io/coffee-web/>**
 |**在线免费&emsp;税率网站**| **<https://currency-convert.kooboo.net/index>** 
 
 **Languages:**
