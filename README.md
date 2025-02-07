@@ -2,7 +2,7 @@
 
 <pre>
 戏子无名。
-                                                                                                                                                                            -- 加油💪
+                                                                                    -- 加油💪
 </pre>
 
 **About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=uxiaohan.uxiaohan&right_color=green" align="center" alt="visitors">
