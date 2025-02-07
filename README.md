@@ -13,7 +13,7 @@
 | :------------: | :------------------------------------------------------- |
 | **博&emsp;客** | **<https://blog-cf.kooboo.net/>**  
 | **静态响应式咖啡网站** | **<https://rmc-cf.github.io/coffee-web/>**
-|**在线免费税率网站**| **<https://currency-convert.kooboo.net/index>** 
+|**在线免费税率网站**| **<https://rmc-cf.github.io/currency-converter/>** 
 
 **Languages:**
 
