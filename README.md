@@ -9,11 +9,10 @@
 
 <img src="https://raw.githubusercontent.com/uxiaohan/uxiaohan/main/code-boy.webp" width="260" align="right" alt="Code Boy">
 
-|   主&emsp;页   | <https://www.4ce.cn>                                      |
+|   主&emsp;页   | <https://blog-cf.kooboo.net/>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://www.vvhan.com>**                            |
-|**Web&emsp;API**| **<https://api.vvhan.com>**          |
-| **Cloudflare优选** | **<https://cf.vvhan.com>** |
+| **博&emsp;客** | **<https://blog-cf.kooboo.net/>**                            |
+|**在线免费&emsp;税率网站**| **<https://currency-convert.kooboo.net/index>** 
 
 **Languages:**
 
@@ -21,11 +20,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
-![Vue](https://img.shields.io/badge/vue-f6d544?logo=vue&logoColor=333)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/react-47c1f5?logo=react&logoColor=333)
 **Frameworks and Tools:**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+
 ![Less](https://img.shields.io/badge/Less-CC6699?logo=Less&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
