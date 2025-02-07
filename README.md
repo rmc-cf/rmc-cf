@@ -21,7 +21,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
-
+![Vue](https://img.shields.io/badge/vue-f6d544?logo=vue&logoColor=333)
+![React](https://img.shields.io/badge/react-47c1f5?logo=react&logoColor=333)
 **Frameworks and Tools:**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
@@ -32,5 +33,5 @@
 
 **GitHub Stats:**
 
-![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=uxiaohan&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaohan&layout=compact)
+![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=rmc-cf&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc-cf&layout=compact)
