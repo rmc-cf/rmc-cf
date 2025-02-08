@@ -7,7 +7,7 @@
 </pre>
 
 
-<img src="https://raw.githubusercontent.com/uxiaohan/uxiaohan/main/code-boy.webp" width="260" align="right" alt="Code Boy">
+<img src="https://raw.githubusercontent.com/rmc-cf/rmc-cf/main/boy.webp" width="260" align="right" alt="Code Boy">
 
 |   主&emsp;页   | <https://blog-cf.kooboo.net/>                                      |
 | :------------: | :------------------------------------------------------- |
