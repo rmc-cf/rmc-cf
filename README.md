@@ -1,8 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm rmc-cf</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmc-cf&show_icons=true&theme=radical" alt="rmc-cf's GitHub stats" />
-</p>
 
 <pre>
 戏子无名。
@@ -59,6 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmc-cf&layout=compact&theme=radical" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rmc-cf&show_icons=true&theme=radical" alt="rmc-cf's GitHub stats" />
 </p>
 
 ## Connect with Me
