@@ -12,10 +12,10 @@
 |   主&emsp;页   | <https://www.rmcyyds.top/>                                      |
 | :------------: | :------------------------------------------------------- |
 | **博&emsp;客** | **<https://www.rmcyyds.top/>**  
-| **静态响应式咖啡网站** | **<https://rmc-cf.github.io/coffee-web/>**
-|**在线免费税率网站**| **<https://rmc-cf.github.io/currency-converter/>** 
-|**手机归属地查询**| **<https://rmc-cf.github.io/Phone-Search/>** 
-|**根据生日计算生肖星座**| **<https://rmc-cf.github.io/Age-Calculation/>** 
+| **静态响应式咖啡网站** | **<https://www.rmcyyds.top/coffee-web/>**
+|**在线免费税率网站**| **<https://www.rmcyyds.top/currency-converter/>** 
+|**手机归属地查询**| **<https://www.rmcyyds.top/Phone-Search/>** 
+|**根据生日计算生肖星座**| **<https://www.rmcyyds.top/Age-Calculation/>** 
 
 
 
